@@ -6,7 +6,8 @@
 
 ### Sample Image
 
-![Sample One](./Pic16.png)
+![Pic16](https://github.com/Akram-Mondal/-Dom-Manipulation-project-09/assets/110484350/c18d55ed-c613-4e57-9e2e-5fb983825e27)
+
 
 ### Tasks
 
@@ -14,6 +15,7 @@
 
 ### Output
 
-![Output](./Pic17.png)
+![Pic17](https://github.com/Akram-Mondal/-Dom-Manipulation-project-09/assets/110484350/10d9c95e-200a-4ec1-9421-0a71965c99f6)
+
 # Solution
-![solution](./Solution.png)
+![Solution](https://github.com/Akram-Mondal/-Dom-Manipulation-project-09/assets/110484350/6fa90131-a1f2-42ec-a637-23eee5db2ea8)
